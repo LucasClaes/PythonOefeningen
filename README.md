@@ -1,2 +1,2 @@
-# SchoolProjecten
-Opdrachten in python voor elektronica les
+# Python Projecten Lucas Claes
+Opdrachten in python voor vak elektronica
