@@ -1,2 +1,2 @@
 # SchoolProjecten
-Opdrachten in python voor elektronica les
+Opdrachten in python voor vak elektronica
