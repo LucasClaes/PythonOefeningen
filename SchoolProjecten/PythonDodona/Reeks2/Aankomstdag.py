@@ -1,6 +1,6 @@
+
 km_dag = int(input("Hoevel kilometer moet je per dag rijden: "))
 totaal_km = int(input("Hoevel kilometer moet je in totaal doen: "))
 
-#Rond naar beneden maar moet naar boven
-Oplossing = totaal_km // km_dag
+Oplossing = -(-totaal_km // km_dag)
 print(Oplossing)
