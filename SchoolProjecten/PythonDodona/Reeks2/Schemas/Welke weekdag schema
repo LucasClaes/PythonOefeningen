@@ -11,24 +11,26 @@ zaterdag	6
 
 Dagen vanaf begin jaar
 
-	Nummer Weekdag
-				Datum
-donderdag	4		1
-vrijdag		5		2
-zaterdag	6		3
-Zondag		0		4
-maandag		1		5
-dinsdag		2		6
-woensdag	3		7
-donderdag	4		8
-vrijdag		5		9
-zaterdag	6		10
-zondag		0		11
-maandag		1		12
-dinsdag		2		13
-woensdag	3		14
-donderdag	4		15
-vrijdag		5		16
-zaterdag	6		17
+	 Nummer Weekdag	Aftrekking
+				  Datum
+donderdag	4		1   +3
+vrijdag		5		2	+3
+zaterdag	6		3	+3
+Zondag		0		4	+3
+maandag		1		5	-4
+dinsdag		2		6	-4
+woensdag	3		7	-4
+donderdag	4		8	-4
+vrijdag		5		9	-4
+zaterdag	6		10	-4
+zondag		0		11	-11
+maandag		1		12	-11
+dinsdag		2		13	-11
+woensdag	3		14	-11
+donderdag	4		15	-11
+vrijdag		5		16	-11
+zaterdag	6		17	-11
+zondag		0		18	-11
+Maandag		1		19	-18
 
 
