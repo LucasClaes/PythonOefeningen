@@ -1,4 +1,6 @@
-LLA = int(input("Geef het aantal leerlingen in klas A:")) / 2
-LLB = int(input("Geef het aantal leerlingen in klas B:")) / 2
-LLC = int(input("Geef het aantal leerlingen in klas C:")) / 2
-print(int(LLA + LLB + LLC + 1))
+LLA = int(input("Geef het aantal leerlingen in klas A:"))
+LLB = int(input("Geef het aantal leerlingen in klas B:"))
+LLC = int(input("Geef het aantal leerlingen in klas C:"))
+
+Banken = (-(-LLA//2)) + (-(-LLB//2)) + (-(-LLC//2))
+print(Banken)
