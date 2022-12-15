@@ -22,7 +22,13 @@ if x == "even" and y == "oneven":
 elif x == "oneven" and y == "even":
     print("LICHT VELD")
 else:
-    print("DONKER VELD")
+    if y == "oneven":
+        print("DONKER VELD")
+    else:
+        print("LICHT VELD")
+   
+
+    
 
 
 
