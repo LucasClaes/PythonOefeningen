@@ -1,7 +1,6 @@
 x_positie = int(input("Geef je x coordinaat: "))
 y_positie = int(input("Geef je y coordinaat: "))
 
-
 x1 = x_positie // 2
 x2 = x_positie / 2
 
@@ -18,12 +17,9 @@ if y1 < y2:
 else:
     y = "even"
 
-print(x,y)
-
-
 if x == "even" and y == "oneven":
     print("LICHT VELD")
-if x == "oneven" and y == "even":
+elif x == "oneven" and y == "even":
     print("LICHT VELD")
 else:
     print("DONKER VELD")
