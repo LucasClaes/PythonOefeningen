@@ -12,6 +12,7 @@ if y1 < y2:
     y = "oneven"
 else:
     y = "even"
+
 if x == "even" and y == "oneven":
     print("LICHT VELD")
 elif x == "oneven" and y == "even":
