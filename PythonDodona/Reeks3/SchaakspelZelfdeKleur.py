@@ -36,5 +36,5 @@ def kleur(x_positie,y_positie):
 
 
 #Variable antwoord die we terugkrijgen uit onze functie gebruiken om te kijken ofdat de twee velden dezelfde kleur hebben
-if kleur(x1,y1) == kleur(x2,y2): print("Zelfde Kleur")
-else: print("Niet zelfde kleur")
+if kleur(x1,y1) == kleur(x2,y2): print("DEZELFDE KLEUR")
+else: print("VERSCHILLENDE KLEUR")
