@@ -1,11 +1,11 @@
 
 # x en y positie van je eerste veld krijgen
-x1 = int(input("Geef de x positie van je eerste veld:"))
-y1 = int(input("Geef de y positie van je eerste veld:"))
+x1 = int(input("Geef de x positie van je eerste veld: "))
+y1 = int(input("Geef de y positie van je eerste veld: "))
 
 # x en y positie van je tweede veld krijgen
-x2 = int(input("Geef de x positie van je tweede veld:"))
-y2 = int(input("Geef de y positie van je tweede veld:"))
+x2 = int(input("Geef de x positie van je tweede veld: "))
+y2 = int(input("Geef de y positie van je tweede veld: "))
 
 
 #Iets dat we nog niet geleerd hebben maar het spaart me veel moeite
@@ -38,3 +38,4 @@ def kleur(x_positie,y_positie):
 #Variable antwoord die we terugkrijgen uit onze functie gebruiken om te kijken ofdat de twee velden dezelfde kleur hebben
 if kleur(x1,y1) == kleur(x2,y2): print("DEZELFDE KLEUR")
 else: print("VERSCHILLENDE KLEUR")
+
