@@ -9,7 +9,7 @@ def kleur(x_positie,y_positie):
     x1 = x_positie // 2
     x2 = x_positie / 2
     if x1 < x2:
-        x = "oneven"µ
+        x = "oneven"ï¿½
     else:
         x = "even"
 
